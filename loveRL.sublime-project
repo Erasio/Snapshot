@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": ["love-0.10.1-win64","hump", "game/Sprites"],
+			"file_exclude_patterns": ["tactile.lua", "*.html", "*.sublime*", ".gitignore", "*.md"]
+		}
+	]
+}
